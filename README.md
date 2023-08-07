@@ -47,15 +47,13 @@ CREATE TABLE usuarios(
 ## Configurações Básicas: 
 
 1. Baixe o projeto na pasta htdocs do xampp:
-   
-![htdocs](https://github.com/chrix40/metas/assets/74983189/444ebeee-d859-478d-8556-6b4f0c19472f)
+   ![htdocs](https://github.com/chrix40/metas/assets/74983189/0cfa65da-048c-4442-af5c-95882d636b50)
 
 2. Já no Painel do XAMPP, Inicie o Apache juntamente com o MYSQL
-![xampp](https://github.com/chrix40/metas/assets/74983189/a1ced61f-9942-4778-abe7-26d2b1590c1f)
+![xampp](https://github.com/chrix40/metas/assets/74983189/4d6bf568-ffc7-4fd2-ace7-2867c048b8f6)
 
 3. Altere o nome do usuário em conexao.php para o que está no seu mySQL caso não seja root:
-
- ![conexaoMetas](https://github.com/chrix40/metas/assets/74983189/116a1327-d137-43ee-b49b-709b6def22ce)
+![conexaoMetas](https://github.com/chrix40/metas/assets/74983189/31aa895f-60c2-408a-9875-9c940247614a)
 
 4. Depois de ter feito tudo isso acesse o seguinte link:
 ```
