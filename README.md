@@ -59,4 +59,9 @@ CREATE TABLE usuarios(
 ```
 http://localhost:8080/metas/login.php
 ```
+5. Login e Senha:
+```
+Login: 123.456.789-00
+Password: 123456
+```
  
