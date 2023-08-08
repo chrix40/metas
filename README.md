@@ -21,9 +21,9 @@ Um CRUD básico em Linguagem PHP utilizando as seguintes tecnologias e ferrament
 
 
 
-## Criação de Banco MYSQL
+## Criação de Banco MySQL
 
-Para criar o banco de dados junto com as tabelas, rode o seguinte comando abaixo
+Para criar o banco de dados junto com as tabelas, rode o seguinte comando abaixo no MySQL
 
 ```
 CREATE DATABASE metas CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci
