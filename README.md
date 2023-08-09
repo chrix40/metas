@@ -57,7 +57,7 @@ CREATE TABLE usuarios(
 
 4. Depois de ter feito tudo isso acesse o seguinte link:
 ```
-http://localhost:8080/metas/login.php
+http://localhost/metas/login.php
 ```
 5. Login e Senha:
 ```
