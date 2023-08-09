@@ -16,7 +16,7 @@ Um CRUD básico em Linguagem PHP utilizando as seguintes tecnologias e ferrament
 ## Links para Download
 
 - Baixe o XAMPP na versão 8.0.28/PHP 8.0.28: https://www.apachefriends.org/download.html
-- MYSQL no seguinte link: https://www.mysql.com/downloads/
+- MYSQL no seguinte link: https://dev.mysql.com/downloads/workbench/
 - Visual Studio Code: https://code.visualstudio.com/
 
 
