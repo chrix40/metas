@@ -33,14 +33,14 @@ USE metas;
 CREATE TABLE metas(
     id INT PRIMARY KEY AUTO_INCREMENT,
     descricao varchar(255) NOT NULL,
-    situacao varchar(255) NOT NULL,
+    situacao varchar(255) NOT NULL
 );
 
 CREATE TABLE usuarios(
     id INT PRIMARY KEY AUTO_INCREMENT,
     nome varchar(255) NOT NULL,
     cpf varchar(255) NOT NULL,
-    email varchar(255) NOT NULL,
+    email varchar(255) NOT NULL
 );
 ```
 
